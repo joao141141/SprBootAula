@@ -19,7 +19,7 @@ public class Aula3Application {
 		return args -> {
 			sistema.enviarConfirmacaoCadastro();
 			sistema.enviarMensagemBoasVindas();
-			sistema.enviarConfirmacaoCadastro();
+
 		};
 	}
 

@@ -1,9 +1,9 @@
 package protosingle.aula3.PP;
 
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
-
-
+@Configuration
 public class Beans {
     @Bean
     @Scope("prototype")

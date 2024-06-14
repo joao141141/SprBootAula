@@ -8,10 +8,10 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>dio2</groupId>
-	<artifactId>aula2</artifactId>
+	<groupId>protosingle</groupId>
+	<artifactId>aula3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aula2</name>
+	<name>aula3</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>
@@ -27,14 +27,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
-		<dependency>
-			<groupId>com.google.code.gson</groupId>
-			<artifactId>gson</artifactId>
-			<version>2.11.0</version>
-		</dependency>
-
 	</dependencies>
 
 	<build>
